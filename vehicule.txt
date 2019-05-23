@@ -1,0 +1,54 @@
+3 1 1
+
+Automobil
+Model: Dacia
+An fabricatie: 2007
+Motor: 1461
+Putere: 90
+Cuplu: 200
+Masa: 1075
+Combustibil: Motorina
+Usi: 4
+Anvelope: vara
+END
+
+Automobil
+Model: BMW
+An fabricatie: 1998
+Motor: 1950
+Putere: 140
+Cuplu: 200
+Masa: 1240
+Combustibil: Benzina
+Usi: 2
+Anvelope: vara
+END
+
+Automobil
+Model: Jeep
+An fabricatie: 2015
+Motor: 2945
+Putere: 200
+Cuplu: 400
+Masa: 1540
+Combustibil: Diesel
+Usi: 4
+Anvelope: offroad
+END
+
+
+Motocicleta
+Model: Kawasaki
+An fabricatie: 2010
+Motor: 400
+Putere: 35
+Cuplu: 60
+Masa: 110
+Anvelope: vara
+END
+
+Bicicleta
+Model: MTB
+An fabricate: 2010
+Masa: 10
+END

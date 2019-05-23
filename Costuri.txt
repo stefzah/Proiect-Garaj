@@ -1,0 +1,118 @@
+///Sistem_Franare
+placuta_frana 10
+disc 20
+sabot 15
+etrier 200
+tambur 150
+pompa_ABS 200
+
+///Anvelope
+anvelopa_bicicleta 50
+anvelopa_vara 200
+anvelopa_iarna 250
+anvelopa_offroad 400
+
+///Aprindere
+bujie 25
+bujie_incandescenta 45
+bobina_inductie 75
+
+///Cabluri_Auto
+cablu_acceleratie 50
+cablu_ambreiaj 50
+cablu_frana 101
+
+///Caroserie
+bara 500
+aripa 350
+capota 400
+usa_fata 250
+usa_spate 250
+geam 50
+parbriz 300
+spoiler 150
+spray_vopsea 50
+
+///Climatizare
+climatronic 101
+compresor_AC 250
+
+///Directie
+ghidon 200
+janta 150
+bucsa 30
+bieleta_antirului 50
+bieleta_directie 70
+pivot 60
+pompa_servo 600
+
+///Electrica_Auto
+baterie 400
+alternator 350
+electromotor 200
+
+///Sonde
+litrometru 101
+sonda_lambda 75
+sonda_presiune_ulei 50
+
+///Evacuare
+catalizator 500
+filtru_particule 700
+toba 350
+
+///Faruri
+far 101
+stop 50
+semnalizator 30
+
+///Filtre
+filtru_ulei 30
+filtru_combustibil 40
+filtru_aer 50
+
+///Motor
+EGR 400
+chiuloasa 500
+bloc_motor 2000
+distributie 500
+baie_ulei 750
+ax_came 500
+piston 1010
+
+///Pompe_si_injectoare
+injector 200
+pompa_benzina 300
+carburator 250
+
+///Racire
+antigel 101
+radiator 400
+termocupla 300
+
+///Suspensie
+amortizor 200
+arc 150
+
+///Transmisie
+cutie_viteze 1010
+planetara 800
+disc_ambreiaj 400
+placa_presiune 300
+pinion 250
+lant 400
+schimbator 200
+
+///Turbo
+compresor 1500
+turbina 2000
+intercooler 1010
+
+///Ulei
+ulei_motor 30
+ulei_servo 20
+ulei_transmisie 25
+
+///Scule_Auto
+surub 1
+
